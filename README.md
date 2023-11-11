@@ -1,2 +1,2 @@
 # Portfolio
-This is the home directory for my professional portfolio landing page, which is still a WIP.
+This page redirects to the current version of my personal blog at [https://github.com/caio-a-garcia/nextjs-blog/](Next.js Blog).
